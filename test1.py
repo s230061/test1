@@ -15,10 +15,44 @@ with col1:
       st.write(' - 훈련    데이터 : *건')
       st.write(' - 테스트 데이터 : *건')
       st.write(' - 모델 정확도 : 0.89')
+            st.image('다온로드.png' )   # 이미지 불러오기
+      st.image('다온로드.png' )   # 이미지 불러오기
+
+      st.image('다온로드.png' )   # 이미지 불러오기
+      st.image('다온로드.png' )   # 이미지 불러오기
+
+      st.image('다온로드.png' )   # 이미지 불러오기
+
+      st.image('다온로드.png' )   # 이미지 불러오기
+
+
+      st.image('다온로드.png' )   # 이미지 불러오기
+
+      st.image('다온로드.png' )   # 이미지 불러오기
+
+      st.image('다온로드.png' )   # 이미지 불러오기
+
+      st.image('다온로드.png' )   # 이미지 불러오기
+
+      st.image('다온로드.png' )   # 이미지 불러오기
+
+      st.image('다온로드.png' )   # 이미지 불러오기
+
+      st.image('다온로드.png' )   # 이미지 불러오기
+
+      st.image('다온로드.png' )   # 이미지 불러오기
+
+      st.image('다온로드.png' )   # 이미지 불러오기
+
+      st.image('다온로드.png' )   # 이미지 불러오기
+
+      st.image('다온로드.png' )   # 이미지 불러오기
+
+
 # 3.데이터시각화
 with col2:
       st.subheader('데이터시각화1')
-      st.image('시각화1.png' )   # 이미지 불러오기
+      st.image('다온로드.png' )   # 이미지 불러오기
 with col3:
       st.subheader('데이터시각화2')
       st.image('시각화2.png')    # 이미지 불러오기
